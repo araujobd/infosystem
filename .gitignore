@@ -71,3 +71,5 @@ app.db
 manage.py
 schema.sql
 migrations/
+
+files
